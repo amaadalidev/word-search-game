@@ -1,0 +1,6 @@
+{
+  "name": "Word Search",
+  "description": "Engaging word search puzzle game with themes, difficulty levels, vibrant letter grid, and colorful word highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
